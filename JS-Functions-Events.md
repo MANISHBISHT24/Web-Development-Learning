@@ -1,7 +1,5 @@
 # JavaScript Functions & Events — Learning Notes
 
-*Full-Stack Internship · Module 1 · Instructor: Dinesh Rawat*
-
 Core concepts of functions (reusable code) and events (reacting to the user).
 
 ## What is a Function
