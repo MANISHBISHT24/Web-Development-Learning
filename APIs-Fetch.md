@@ -1,7 +1,5 @@
 # Working with APIs & Fetch — Learning Notes
 
-*Full-Stack Internship · Module 1 · Day 10 · Instructor: Dinesh Rawat*
-
 Core concepts of APIs, HTTP, and using `fetch()` to talk to servers.
 
 ## What is an API — The Restaurant Analogy
